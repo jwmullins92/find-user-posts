@@ -1,0 +1,16 @@
+body {
+    background-color: #c9c2b8;
+}
+
+button {
+    color: #0000FF;
+	background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+    transition: all .1s ease-in-out
+}
+
+button:hover {
+    color: purple
+}
